@@ -9,13 +9,8 @@
 </script>
 
 <svelte:head>
-	<title>Lukas Stanek</title>
-	<meta name="description" content="Portfolio page of Lukas Stanek">
-</svelte:head>
-
-
-<svelte:head>
     <title>Lukas Stanek</title>
+	<meta name="description" content="Portfolio page of Lukas Stanek">
 </svelte:head>
 
 <main class="w-full h-full absolute flex flex-col justify-around items-center bg-gray-800">
