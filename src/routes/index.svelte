@@ -10,7 +10,7 @@
 
 <svelte:head>
     <title>Lukas Stanek</title>
-	<meta name="description" content="My digital businesscard.">
+	<meta name="description" content="My digital business card.">
 </svelte:head>
 
 <main class="w-full h-full absolute flex flex-col justify-around items-center bg-gray-800">
