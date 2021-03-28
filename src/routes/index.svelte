@@ -15,12 +15,12 @@
 <main class="w-full h-full absolute flex flex-col justify-around items-center bg-gray-800">
 	<div class="py-10 px-16 flex flex-col lg:flex-row lg:space-x-12 lg:space-y-0 space-y-8  justify-center items-center">
 		<div class="w-60 h-60 overflow-hidden rounded-full">
-			<img src="mountains.jpg" alt="portrait" srcset="
+			<img src="mountains-comp.jpg" alt="portrait" srcset="
 			mountains-64.jpg 64w, 
 			mountains-128.jpg 128w, 
 			mountains-256.jpg 256w, 
 			mountains-512.jpg 512w, 
-			mountains.jpg 1024w" sizes="15rem" />
+			mountains-comp.jpg 1024w" sizes="15rem" />
 		</div>
 		<div class="flex flex-col justify-center text-white font-mono">
 			<h1 class="text-3xl font-bold mb-6 animate-bounce">Lukas Stanek</h1>
