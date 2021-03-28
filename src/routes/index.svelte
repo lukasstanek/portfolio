@@ -14,6 +14,7 @@
 			<h1 class="text-2xl font-bold">Lukas Stanek</h1>
 			<span>Software Engineering</span>
 			<span>Kotlin, Flutter, Svelte</span>
+			<span class="hover:underline"><a href="mailto:mail@stanek.xyz">mail@stanek.xyz</a></span>
 		</div>
 		
 	</div>
