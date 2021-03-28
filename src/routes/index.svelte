@@ -11,7 +11,7 @@
 			<img src="leogang_focused_low.jpg" alt="portrait" />
 		</div>
 		<div class="flex flex-col text-white font-mono">
-			<h1 class="text-2xl font-bold">Lukas Stanek</h1>
+			<h1 class="text-2xl font-bold mb-2 animate-bounce">Lukas Stanek</h1>
 			<span>Software Engineering</span>
 			<span>Kotlin, Flutter, Svelte</span>
 			<span class="hover:underline"><a href="mailto:mail@stanek.xyz">mail@stanek.xyz</a></span>
