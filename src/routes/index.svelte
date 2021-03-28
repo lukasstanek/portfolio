@@ -1,5 +1,11 @@
 <script lang="ts">
-    import { MapPinIcon, ToolIcon, BriefcaseIcon, MailIcon, Volume2Icon } from 'svelte-feather-icons'
+
+    import MapPinIcon from 'svelte-feather-icons/src/icons/MapPinIcon.svelte'
+    import ToolIcon from 'svelte-feather-icons/src/icons/ToolIcon.svelte'
+    import BriefcaseIcon from 'svelte-feather-icons/src/icons/BriefcaseIcon.svelte'
+    import MailIcon from 'svelte-feather-icons/src/icons/MailIcon.svelte'
+    import Volume2Icon from 'svelte-feather-icons/src/icons/Volume2Icon.svelte'
+
 </script>
 
 <svelte:head>
