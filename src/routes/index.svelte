@@ -22,7 +22,7 @@
 			<span class="flex items-center space-x-3"><BriefcaseIcon size="16" /><p>Software Engineering</p></span>
 			<span class="flex items-center space-x-3 mb-3"><ToolIcon size="16" /><p>Kotlin, Flutter, Svelte</p></span>
 			<span class="flex items-center space-x-3"><MapPinIcon size="16" /><p> Vienna, Austria</p></span>
-			<span class="flex items-center space-x-3 mb-3"><Volume2Icon size="16" /><p> German, English</p></span>
+			<span class="flex items-center space-x-3 mb-3"><Volume2Icon size="16" /><p> Deutsch, English</p></span>
 			<span class="flex items-center space-x-3 hover:underline"><MailIcon size="16" /><a href="mailto:hola@stanek.xyz">hola@stanek.xyz</a></span>
 		</div>
 		
