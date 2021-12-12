@@ -34,11 +34,11 @@
 			<h1 class="text-3xl font-bold mb-6 animate-bounce">Lukas Stanek</h1>
 			<span class="flex items-center space-x-3"
 				><BriefcaseIcon size="16" />
-				<p>Software Engineering</p></span
+				<p>Full Stack Software Architecture & Consulting</p></span
 			>
 			<span class="flex items-center space-x-3 mb-3"
 				><ToolIcon size="16" />
-				<p>Kotlin, Flutter, Svelte</p></span
+				<p>Kotlin, Flutter, Svelte, Terraform</p></span
 			>
 			<span class="flex items-center space-x-3"
 				><MapPinIcon size="16" />
@@ -52,18 +52,18 @@
 				><MailIcon size="16" /><a href="mailto:hola@stanek.xyz">hola@stanek.xyz</a></span
 			>
 
+			<span class="flex items-center space-x-3 hover:underline"
+				><GithubIcon size="16" /><a href="https://github.com/lukasstanek" target="_blank"
+					>Github</a
+				></span
+			>
+			<span class="flex items-center space-x-3 hover:underline"
+				><LinkedinIcon size="16" /><a
+					href="https://www.linkedin.com/in/lukas-stanek-022ab8142/"
+					target="_blank">LinkedIn</a
+				></span
+			>
 			<span class="flex items-center justify-between">
-				<span class="flex items-center space-x-3 hover:underline"
-					><GithubIcon size="16" /><a href="https://github.com/lukasstanek" target="_blank"
-						>Github</a
-					></span
-				>
-				<span class="flex items-center space-x-3 hover:underline"
-					><LinkedinIcon size="16" /><a
-						href="https://www.linkedin.com/in/lukas-stanek-022ab8142/"
-						target="_blank">LinkedIn</a
-					></span
-				>
 			</span>
 		</div>
 	</div>
