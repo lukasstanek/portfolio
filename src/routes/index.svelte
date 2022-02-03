@@ -34,7 +34,7 @@
 			<h1 class="text-3xl font-bold mb-6 animate-bounce">Lukas Stanek</h1>
 			<span class="flex items-center space-x-3"
 				><BriefcaseIcon size="16" />
-				<p>Full Stack Software Architecture & Consulting</p></span
+				<p>Full Stack Software Craftsmanship,<br/>Architecture & Consulting</p></span
 			>
 			<span class="flex items-center space-x-3 mb-3"
 				><ToolIcon size="16" />
