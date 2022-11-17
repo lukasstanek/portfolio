@@ -53,14 +53,14 @@
 			>
 
 			<span class="flex items-center space-x-3 hover:underline"
-				><GithubIcon size="16" /><a href="https://github.com/lukasstanek" target="_blank"
+				><GithubIcon size="16" /><a href="https://github.com/lukasstanek" target="_blank" rel="noreferrer"
 					>Github</a
 				></span
 			>
 			<span class="flex items-center space-x-3 hover:underline"
 				><LinkedinIcon size="16" /><a
 					href="https://www.linkedin.com/in/lukas-stanek-022ab8142/"
-					target="_blank">LinkedIn</a
+					target="_blank" rel="noreferrer">LinkedIn</a
 				></span
 			>
 			<span class="flex items-center justify-between">
