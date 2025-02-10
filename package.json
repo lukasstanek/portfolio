@@ -2,10 +2,10 @@
 	"name": "stanekxyz",
 	"version": "0.0.1",
 	"scripts": {
-		"dev": "svelte-kit dev",
+		"dev": "vite dev",
 		"build": "vite build",
 		"preview": "vite preview",
-		"start": "svelte-kit start",
+		"start": "vite start",
 		"lint": "prettier --check . && eslint .",
 		"format": "prettier --write ."
 	},
